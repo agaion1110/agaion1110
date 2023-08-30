@@ -6,7 +6,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=vite,vue,webpack,js,ts,c)](https://github.com/agaion1110)
 
-![rainbow gif](https://raw.githubusercontent.com/agaion1110/agaion1110/main/profile-3d-contrib/profile-night-rainbow.svg)
+![rainbow gif](https://raw.githubusercontent.com/agaion1110/agaion1110/master/profile-3d-contrib/profile-night-rainbow.svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lxfriday/lxfriday/output/github-contribution-grid-snake-dark.svg">
